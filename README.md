@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+If you're reading this, I'm training Deep Neural Nets 🕸️💻🎭
+
 <!--
 **amiri02/amiri02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
